@@ -3,12 +3,6 @@
 ## AIM:
 To write a C function to find the peek element of the queue using linked list.
 
-
-# EX 60 C function to find the peek element of the queue using linked list.
-## DATE:
-## AIM:
-To write a C function to find the peek element of the queue using linked list.
-
 ## Algorithm
 1.Define a structure Node with a character data type and a pointer to the next node.
 
