@@ -1,5 +1,5 @@
 # EX 58 C Function to display queue elements using Linked List.(use integer data in the queue)
-## DATE:
+## DATE:22/05/2025
 ## AIM:
 To write a C Function to display queue elements using Linked List.
 
